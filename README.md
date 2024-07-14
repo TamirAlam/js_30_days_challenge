@@ -1,1 +1,1 @@
-# js_30_days_challenge
+# js_staring_basic_level
